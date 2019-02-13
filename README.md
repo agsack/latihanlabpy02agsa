@@ -27,8 +27,8 @@ dicari bilangan terbesarnya secara otomatis
 (b), gambar ada dibawah :
 
 
-![1
-$fba-11e9-9e03-484904f22848.png)
+![1 
+2](https://user-images.githubusercontent.com/46734315/52715115-32967380-2fce-11e9-959c-4f8e44240249.png)
 
 
 ** Membuat input terlebih dahulu untuk dipanggil bilangan kedua atau 
