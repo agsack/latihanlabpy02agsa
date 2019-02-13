@@ -8,10 +8,10 @@ dicari bilangan terbesarnya secara otomatis
 
 2.Untuk melihat cara nya bisa lihat di github sama sebelumnya..
 
-3.cek disini https://github.com/kid49/latihansaya1
+3.cek disini https://github.com/agsack/latihanlabpy02agsa
 4.Selanjutnya kita membuat nya di nano.
 
--cukup ketik nano latihanlabpy01.py
+-cukup ketik nano praktikum2.py
 
 -dan berikut cara nya :
 
