@@ -9,6 +9,7 @@ dicari bilangan terbesarnya secara otomatis
 2.Untuk melihat cara nya bisa lihat di github sama sebelumnya..
 
 3.cek disini https://github.com/agsack/latihanlabpy02agsa
+
 4.Selanjutnya kita membuat nya di nano.
 
 -cukup ketik nano praktikum2.py
@@ -65,7 +66,6 @@ print("Masukan bilangan Terbesar %s:" %b)
 elif c > a:
 
 print("Masukan bilangan Terbesar %s: %c)
-#cukup jelas dan detail !
 
 #Creator : AGUS SAPUTRA#
 
