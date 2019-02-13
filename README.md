@@ -67,7 +67,12 @@ elif c > a:
 
 print("Masukan bilangan Terbesar %s: %c)
 
-## Berikut Flowchart Untuk Bilangan Terbesar Dari 3 Bilangan##
+## Gambar Hasil Perhitungan Bilangan Terbesar Dari 3 Bilangan ###
+
+![1 
+4](https://user-images.githubusercontent.com/46734315/52714951-cae02880-2fcd-11e9-9ca5-8665b923fd65.png)
+
+## Berikut Flowchart Untuk Bilangan Terbesar Dari 3 Bilangan ###
 
 ![flowchart](https://user-images.githubusercontent.com/46734315/52713825-eeee3a80-2fca-11e9-831e-9c445ce602ad.jpg)
 
