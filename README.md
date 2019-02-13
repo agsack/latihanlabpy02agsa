@@ -67,6 +67,6 @@ elif c > a:
 print("Masukan bilangan Terbesar %s: %c)
 #cukup jelas dan detail !
 
-#Creator : BayuPM#
+#Creator : AGUS SAPUTRA#
 
 Dan silahkan mencoba untuk mencari hasilnya :)
