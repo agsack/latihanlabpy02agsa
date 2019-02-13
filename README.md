@@ -76,6 +76,6 @@ print("Masukan bilangan Terbesar %s: %c)
 
 ![flowchart](https://user-images.githubusercontent.com/46734315/52713825-eeee3a80-2fca-11e9-831e-9c445ce602ad.jpg)
 
-#Creator : AGUS SAPUTRA#
+## Creator : AGUS SAPUTRA ###
 
 Dan silahkan mencoba untuk mencari hasilnya :)
