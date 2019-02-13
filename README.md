@@ -47,7 +47,7 @@ tidak.
 Cara nya sungguh mudah, cukup memanggil dengan perintah sesuai nama yang 
 td anda buat..
 
-## python latihanlabpy01.py ###
+## python praktikum2labs02agsa.py ###
 Jika anda bingung bisa melihat codingannya secara detail :
 
 a = input("Masukan bilangan :")
